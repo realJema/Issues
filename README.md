@@ -18,3 +18,6 @@ Learn how to use the markdown language used on github
 >git add .  
 >git commit -m "add a comment"  
 >git push -u origin master  
+
+## Git Push failed 
+git pull origin master --allow-unrelated-histories
