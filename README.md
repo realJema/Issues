@@ -15,8 +15,10 @@ Learn how to use the markdown language used on github
 [Reference 2](https://markdown-guide.readthedocs.io/en/latest/basics.html)
 
 ## Uploading to github
+>git init
 >git add .  
->git commit -m "add a comment"  
+>git commit -m "first commit"  
+>git remote add origin https://github.com....
 >git push -u origin master  
 
 ## Git Push failed 
