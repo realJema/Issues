@@ -23,3 +23,15 @@ Learn how to use the markdown language used on github
 
 ## Git Push failed 
 git pull origin master --allow-unrelated-histories
+
+## Stop tracking folder 
+>git rm -r --cached --ignore-unmatch folder_name
+or 
+>git rm --cached -r <dir>
+
+## Useful CMD
+create directory 
+`mkdir [name]`
+delete files and directory
+`del filename.txt`
+`rmdir dirname`
