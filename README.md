@@ -32,6 +32,8 @@ or
 
 #### Force push to Github
 git push -f origin master
+#### Force merge from Github
+
 
 ## Useful CMD
 create directory 
