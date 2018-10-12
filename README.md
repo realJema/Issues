@@ -33,6 +33,8 @@ or
 #### Force push to Github
 git push -f origin master
 #### Force merge from Github
+[to do]
+#### Git credential manager 
 
 
 ## Useful CMD
