@@ -33,8 +33,11 @@ or
 #### Force push to Github
 git push -f origin master
 #### Force merge from Github
-[to do]
-#### Git credential manager
+git mergetool
+#### Unable to pull
+git fetch origin
+git reset --hard origin/master
+git pull
 
 
 ## Useful CMD
