@@ -40,9 +40,13 @@ git reset --hard origin/master
 git pull
 
 
-## Useful CMD
+## CMD
 create directory
 `mkdir [name]`
 delete files and directory
 `del filename.txt`
 `rmdir dirname`
+
+## Linux
+mount windows drive
+`sudo mount -t ntfs-3g -o ro /dev/sda3 /media/'username'`
